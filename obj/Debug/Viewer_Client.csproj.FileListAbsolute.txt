@@ -1,0 +1,10 @@
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\bin\Debug\Viewer_Client.exe.config
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\bin\Debug\Viewer_Client.exe
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\bin\Debug\Viewer_Client.pdb
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\obj\Debug\Viewer_Client.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\obj\Debug\Viewer_Client.FrmClient.resources
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\obj\Debug\Viewer_Client.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\obj\Debug\Viewer_Client.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\obj\Debug\Viewer_Client.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\obj\Debug\Viewer_Client.exe
+C:\Users\Alexandre\source\repos\Viewer_Client\Viewer_Client\obj\Debug\Viewer_Client.pdb
